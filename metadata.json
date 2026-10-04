@@ -1,0 +1,6 @@
+{
+  "name": "Folio Review – Editorial Journal & Blog",
+  "description": "An independent literary and design publication exploring architectural form, contemporary culture, typography, and long-form essays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
